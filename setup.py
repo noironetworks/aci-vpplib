@@ -16,7 +16,7 @@ import setuptools
 
 setuptools.setup(
     name="aci-vpplib",
-    version="4.0.0",
+    version="1.0.0",
     packages=setuptools.find_packages(),
     author="Cisco Systems, Inc.",
     author_email="vpplib@noironetworks.com",
